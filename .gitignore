@@ -134,6 +134,7 @@ env/
 venv/
 ENV/
 env.bak/
+porch-env/
 venv.bak/
 
 # Spyder project settings
